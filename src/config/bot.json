@@ -1,7 +1,9 @@
 {
-    "token": "MTMxMDg4MDEzMDAyMDY3MTQ4OA.Gv0oin.Wo2oCx_AC9yGkyF4jlrcyR-zSJngZF5l1YQIsU",
+    "token": "",
     "prefix": "+",
     "status": "+help",
     "statusType": "WATCHING",
+    "botClientId": "1311583145510047774",
+    "supportGuildId": "1311582903616143381",
     "color": 3329280
 }
